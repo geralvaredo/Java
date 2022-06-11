@@ -1,0 +1,23 @@
+
+HACER UN RECORDSET EN SQL DEVELOPER:
+https://oracle-base.com/articles/misc/using-ref-cursors-to-return-recordsets
+
+https://docs.oracle.com/cd/A84870_01/doc/java.816/a81354/samapp5.htm creacion de cursor
+
+
+JPA
+
+https://www.tutorialspoint.com/jpa/index.htm 
+
+https://www.tutorialspoint.com/jpa/jpa_entity_managers.htm
+
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html
+
+
+SQL
+
+
+https://www.cis.upenn.edu/~bcpierce/courses/629/jdkdocs/guide/jdbc/getstart/mapping.doc.html
+
+
+https://explainextended.com/2009/03/17/hierarchical-queries-in-mysql/
